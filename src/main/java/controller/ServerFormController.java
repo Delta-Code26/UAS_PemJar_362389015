@@ -117,7 +117,7 @@ public class ServerFormController {
             e.printStackTrace();
             new Alert(Alert.AlertType.ERROR,"something went wrong. can't add client").show();
         }
-        stage.setTitle("EChat");
+        stage.setTitle("MarnoChat");
         stage.centerOnScreen();
         stage.setResizable(false);
         stage.show();

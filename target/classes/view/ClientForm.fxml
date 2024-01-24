@@ -31,7 +31,7 @@
                 <Image url="@../img/EChat-logo-img.png" />
             </image>
         </ImageView>
-        <Text fill="#0d47a1" layoutX="65.0" layoutY="35.0" strokeType="OUTSIDE" strokeWidth="0.0" text="EChat">
+        <Text fill="#0d47a1" layoutX="65.0" layoutY="35.0" strokeType="OUTSIDE" strokeWidth="0.0" text="MarnoChat">
             <font>
                 <Font name="Harlow Solid Italic" size="14.0" />
             </font>
